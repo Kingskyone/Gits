@@ -8,3 +8,4 @@ user.name           wty
 提交本地库              git commit -m "日志信息" *
 查看版本信息            git reflog
 查看详细日志            git log
+版本穿梭                git reset --hard <版本号>
